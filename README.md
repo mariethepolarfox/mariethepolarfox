@@ -2,10 +2,9 @@
 
 I code and stuff :3
 
----
-
-### Here is what I did this past year!
-![Stats](https://github-readme-stats.vercel.app/api?username=mariethepolarfox&show_icons=&theme=dracula)
+[//]: # (---)
+[//]: # ()
+[//]: # (### Here is what I did this past year!)
 
 ---
 
