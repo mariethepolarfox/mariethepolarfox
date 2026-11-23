@@ -8,5 +8,5 @@ I code and stuff :3
 
 ---
 
-You can also support me on Ko-fi :3 <br />
+You can support me on Ko-fi :3 <br />
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M71Y43AV)
